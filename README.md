@@ -47,7 +47,7 @@ QA Engineer with 1+ year experience in enhancing product quality and user satisf
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Coding:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
