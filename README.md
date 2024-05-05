@@ -6,6 +6,8 @@
 
 QA Engineer with 1+ year experience in enhancing product quality and user satisfaction through manual and automated testing for web and mobile applications. Skilled at developing and maintaining testing documentation, as well as analyzing data to improve product performance. 
 
+- 📫 Get in touch: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-cherezova/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:seelenamuse2.5@gmail.com)
+
 ---
 ### 🤝 Social:
 
@@ -24,7 +26,7 @@ QA Engineer with 1+ year experience in enhancing product quality and user satisf
 
 - [Test documentation examples](https://docs.google.com/document/d/1LqWpQhVcu-0AXbTfV7kWMe4nwD9kd7UWQTCZqx5A0XQ/edit?usp=sharing)
 - [Example of an application UI analysis](https://docs.google.com/spreadsheets/d/1VoOd0Sm7wrDGb2MmwzJd7UqbZid6RAalMSQcrZjcq8o/edit?usp=sharing)
-- [Examples of test documentation for an ideal world (Thanks to Artsiom Rusau for the examples of test tables)](https://docs.google.com/spreadsheets/d/1pb4TN13qzDcE3LvKjUdGbqvUP06yV2KT5C7oC5zWkLU/edit?usp=sharing)
+- [Examples of test documentation for an ideal world (thanks to Artsiom Rusau for the examples of test tables)](https://docs.google.com/spreadsheets/d/1pb4TN13qzDcE3LvKjUdGbqvUP06yV2KT5C7oC5zWkLU/edit?usp=sharing)
 
 ---
 
