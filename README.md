@@ -6,7 +6,7 @@
 
 QA Engineer with 1+ year experience in enhancing product quality and user satisfaction through manual and automated testing for web and mobile applications. Skilled at developing and maintaining testing documentation, as well as analyzing data to improve product performance. 
 
-- 📫 Get in touch: [![LinkedIn Badge](https://img.shields.io/badge/-@elena-cherezova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-cherezova/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:seelenamuse2.5@gmail.com)
+- 📫 Get in touch: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:seelenamuse2.5@gmail.com)
 
 ---
 ### 🤝 Social:
